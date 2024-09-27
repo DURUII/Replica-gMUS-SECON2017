@@ -229,3 +229,5 @@ fabric.properties
 **/.ignore/*
 **/.vscode/*
 *.mp4
+/data/tileimg
+/data/*_train.txt
